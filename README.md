@@ -1,5 +1,7 @@
 # PizzaMania Sales Data Analysis using SQL
 
+![Sales Analysis](logo.jpg)
+
 ## Overview
 
 This project presents a thorough analysis of PizzaMania's sales records using SQL. The aim is to uncover business insights and answer key questions using real transactional data. This README details the project's objectives, schema, queries, findings, and strategic conclusions.
